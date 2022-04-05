@@ -10,10 +10,7 @@ This is my submission of homework 3
   - [x] Post can have a theme image (and author name if your app is multi-user)
   - [x] Add visibility of the post (public/private) so guest can see only public posts (authenticated user can see his/her own private/public posts)
   - [x] Deploy your app using docker-compose (docker-compose.yaml will be evaluated)
- 
-- [ ] Challenging part
-  - [ ] Implement editing and deleting post feature
-  - [ ] "Story" page automatically check and update for new posts
+
 
 ## Prerequisites
 
